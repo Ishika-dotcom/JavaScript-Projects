@@ -55,4 +55,3 @@ This repository contains five JavaScript projects, ranging from beginner-friendl
   - Checks for wins, losses, or ties.
   - Simple and responsive UI.
 - A fun way to practice game logic and interactive programming.
-
